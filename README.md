@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center"> 👋, I'm Aman Kumar</h1>
-<h3 align="center">,I am Doing BE In Computer Science at ATMECE</h3>
+<h3 align="center">,I am Doing BE In Computer Science & Engineering  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar2k&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar2k" /> </p>
 
